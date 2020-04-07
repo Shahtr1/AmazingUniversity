@@ -1,0 +1,291 @@
+[17-Feb-2020 09:00:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\functions.php:14
+Stack trace:
+#0 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\archive-event.php(4): pageBanner(Array)
+#1 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template-loader.php(98): include('C:\\Users\\Shahru...')
+#2 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Shahru...')
+#3 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\index.php(17): require('C:\\Users\\Shahru...')
+#4 {main}
+  thrown in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\functions.php on line 14
+[17-Feb-2020 09:01:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\functions.php:14
+Stack trace:
+#0 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\index.php(4): pageBanner(Array)
+#1 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template-loader.php(98): include('C:\\Users\\Shahru...')
+#2 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Shahru...')
+#3 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\index.php(17): require('C:\\Users\\Shahru...')
+#4 {main}
+  thrown in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\functions.php on line 14
+[17-Feb-2020 09:16:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\functions.php:14
+Stack trace:
+#0 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\index.php(4): pageBanner(Array)
+#1 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template-loader.php(98): include('C:\\Users\\Shahru...')
+#2 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Shahru...')
+#3 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\index.php(17): require('C:\\Users\\Shahru...')
+#4 {main}
+  thrown in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\functions.php on line 14
+[17-Feb-2020 09:44:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\functions.php:10
+Stack trace:
+#0 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\page.php(6): pageBanner()
+#1 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template-loader.php(98): include('C:\\Users\\Shahru...')
+#2 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Shahru...')
+#3 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\index.php(17): require('C:\\Users\\Shahru...')
+#4 {main}
+  thrown in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\functions.php on line 10
+[17-Feb-2020 09:45:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\functions.php:10
+Stack trace:
+#0 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\page.php(6): pageBanner()
+#1 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template-loader.php(98): include('C:\\Users\\Shahru...')
+#2 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Shahru...')
+#3 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\index.php(17): require('C:\\Users\\Shahru...')
+#4 {main}
+  thrown in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\functions.php on line 10
+[17-Feb-2020 09:45:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\functions.php:10
+Stack trace:
+#0 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\page.php(6): pageBanner()
+#1 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template-loader.php(98): include('C:\\Users\\Shahru...')
+#2 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Shahru...')
+#3 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\index.php(17): require('C:\\Users\\Shahru...')
+#4 {main}
+  thrown in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\functions.php on line 10
+[17-Feb-2020 09:48:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\functions.php:10
+Stack trace:
+#0 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\page.php(6): pageBanner()
+#1 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template-loader.php(98): include('C:\\Users\\Shahru...')
+#2 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Shahru...')
+#3 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\index.php(17): require('C:\\Users\\Shahru...')
+#4 {main}
+  thrown in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\functions.php on line 10
+[17-Feb-2020 10:49:31 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\update.php on line 577
+[17-Feb-2020 10:49:31 UTC] PHP Stack trace:
+[17-Feb-2020 10:49:31 UTC] PHP   1. {main}() C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-admin\update.php:0
+[17-Feb-2020 10:49:31 UTC] PHP   2. Plugin_Upgrader->install() C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-admin\update.php:138
+[17-Feb-2020 10:49:31 UTC] PHP   3. Plugin_Upgrader->run() C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-admin\includes\class-plugin-upgrader.php:108
+[17-Feb-2020 10:49:31 UTC] PHP   4. do_action() C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-admin\includes\class-wp-upgrader.php:836
+[17-Feb-2020 10:49:31 UTC] PHP   5. WP_Hook->do_action() C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\plugin.php:478
+[17-Feb-2020 10:49:31 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\class-wp-hook.php:312
+[17-Feb-2020 10:49:31 UTC] PHP   7. wp_update_themes() C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\class-wp-hook.php:286
+[17-Feb-2020 10:49:31 UTC] PHP   8. trigger_error() C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\update.php:577
+[25-Feb-2020 17:27:12 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\functions.php on line 5
+[25-Feb-2020 17:27:12 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\functions.php on line 5
+[25-Feb-2020 17:37:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\includes\search-route.php on line 14
+[25-Feb-2020 17:50:09 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '(' in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\includes\search-route.php on line 21
+[25-Feb-2020 17:50:12 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '(' in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\includes\search-route.php on line 21
+[25-Feb-2020 17:50:20 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '(' in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\includes\search-route.php on line 21
+[25-Feb-2020 18:01:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_text_filed() in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\includes\search-route.php:15
+Stack trace:
+#0 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\rest-api\class-wp-rest-server.php(946): universitySearchResults(Object(WP_REST_Request))
+#1 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\rest-api\class-wp-rest-server.php(329): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\rest-api.php(305): WP_REST_Server->serve_request('/university/v1/...')
+#3 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\class-wp-hook.php(288): rest_api_loaded(Object(WP))
+#4 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#5 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\plugin in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\includes\search-route.php on line 15
+[25-Feb-2020 18:01:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_text_filed() in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\includes\search-route.php:15
+Stack trace:
+#0 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\rest-api\class-wp-rest-server.php(946): universitySearchResults(Object(WP_REST_Request))
+#1 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\rest-api\class-wp-rest-server.php(329): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\rest-api.php(305): WP_REST_Server->serve_request('/university/v1/...')
+#3 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\class-wp-hook.php(288): rest_api_loaded(Object(WP))
+#4 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#5 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\plugin in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\includes\search-route.php on line 15
+[25-Feb-2020 18:02:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_text_filed() in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\includes\search-route.php:15
+Stack trace:
+#0 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\rest-api\class-wp-rest-server.php(946): universitySearchResults(Object(WP_REST_Request))
+#1 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\rest-api\class-wp-rest-server.php(329): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\rest-api.php(305): WP_REST_Server->serve_request('/university/v1/...')
+#3 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\class-wp-hook.php(288): rest_api_loaded(Object(WP))
+#4 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#5 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\plugin in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\includes\search-route.php on line 15
+[26-Feb-2020 17:21:38 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\includes\search-route.php on line 66
+[26-Feb-2020 17:21:46 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\includes\search-route.php on line 66
+[26-Feb-2020 17:25:18 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\includes\search-route.php on line 75
+[27-Feb-2020 16:27:32 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\includes\search-route.php on line 106
+[27-Feb-2020 16:27:32 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\includes\search-route.php on line 106
+[27-Feb-2020 16:27:33 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\includes\search-route.php on line 106
+[28-Feb-2020 17:00:14 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\search.php on line 24
+[28-Feb-2020 17:00:25 UTC] PHP Warning:  Use of undefined constant have_posts - assumed 'have_posts' (this will throw an Error in a future version of PHP) in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\search.php on line 11
+[28-Feb-2020 17:00:25 UTC] PHP Stack trace:
+[28-Feb-2020 17:00:25 UTC] PHP   1. {main}() C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\index.php:0
+[28-Feb-2020 17:00:25 UTC] PHP   2. require() C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\index.php:17
+[28-Feb-2020 17:00:25 UTC] PHP   3. require_once() C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-blog-header.php:19
+[28-Feb-2020 17:00:25 UTC] PHP   4. include() C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template-loader.php:98
+[03-Mar-2020 17:09:52 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\header.php on line 34
+[03-Mar-2020 17:09:56 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\header.php on line 34
+[03-Mar-2020 17:10:27 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\header.php on line 34
+[03-Mar-2020 17:10:29 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\header.php on line 34
+[03-Mar-2020 17:10:32 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\header.php on line 34
+[03-Mar-2020 17:11:06 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\header.php on line 34
+[03-Mar-2020 17:16:01 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'redirectSubsToFrontend' not found or invalid function name in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\class-wp-hook.php on line 288
+[03-Mar-2020 17:16:01 UTC] PHP Stack trace:
+[03-Mar-2020 17:16:01 UTC] PHP   1. {main}() C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-admin\user-edit.php:0
+[03-Mar-2020 17:16:01 UTC] PHP   2. require_once() C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-admin\user-edit.php:10
+[03-Mar-2020 17:16:01 UTC] PHP   3. do_action() C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-admin\admin.php:170
+[03-Mar-2020 17:16:01 UTC] PHP   4. WP_Hook->do_action() C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\plugin.php:478
+[03-Mar-2020 17:16:01 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\class-wp-hook.php:312
+[03-Mar-2020 17:17:04 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'redirectSubsToFrontend' not found or invalid function name in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\class-wp-hook.php on line 288
+[03-Mar-2020 17:17:04 UTC] PHP Stack trace:
+[03-Mar-2020 17:17:04 UTC] PHP   1. {main}() C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-admin\admin-ajax.php:0
+[03-Mar-2020 17:17:04 UTC] PHP   2. do_action() C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-admin\admin-ajax.php:45
+[03-Mar-2020 17:17:04 UTC] PHP   3. WP_Hook->do_action() C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\plugin.php:478
+[03-Mar-2020 17:17:04 UTC] PHP   4. WP_Hook->apply_filters() C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\class-wp-hook.php:312
+[05-Mar-2020 16:14:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template.php(724): require()
+#1 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template.php(671): load_template('C:\\Users\\Shahru...', false)
+#2 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\front-page.php(39): get_template_part('template-parts/...', 'event')
+#4 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template-loader.php(98): include('C:\\Users\\Shahru...')
+#5 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Shahru...')
+#6 C:\ in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\template-parts\content-event.php on line 4
+[05-Mar-2020 16:14:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template.php(724): require()
+#1 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template.php(671): load_template('C:\\Users\\Shahru...', false)
+#2 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\front-page.php(39): get_template_part('template-parts/...', 'event')
+#4 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template-loader.php(98): include('C:\\Users\\Shahru...')
+#5 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Shahru...')
+#6 C:\ in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\template-parts\content-event.php on line 4
+[05-Mar-2020 16:17:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template.php(724): require()
+#1 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template.php(671): load_template('C:\\Users\\Shahru...', false)
+#2 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\front-page.php(39): get_template_part('template-parts/...', 'event')
+#4 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template-loader.php(98): include('C:\\Users\\Shahru...')
+#5 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Shahru...')
+#6 C:\ in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\template-parts\content-event.php on line 4
+[05-Mar-2020 16:17:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template.php(724): require()
+#1 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template.php(671): load_template('C:\\Users\\Shahru...', false)
+#2 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\front-page.php(39): get_template_part('template-parts/...', 'event')
+#4 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template-loader.php(98): include('C:\\Users\\Shahru...')
+#5 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Shahru...')
+#6 C:\ in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\template-parts\content-event.php on line 4
+[05-Mar-2020 16:18:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template.php(724): require()
+#1 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template.php(671): load_template('C:\\Users\\Shahru...', false)
+#2 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\front-page.php(39): get_template_part('template-parts/...', 'event')
+#4 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template-loader.php(98): include('C:\\Users\\Shahru...')
+#5 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Shahru...')
+#6 C:\ in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\template-parts\content-event.php on line 4
+[05-Mar-2020 16:18:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\functions.php:22
+Stack trace:
+#0 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\page.php(6): pageBanner()
+#1 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template-loader.php(98): include('C:\\Users\\Shahru...')
+#2 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Shahru...')
+#3 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\index.php(17): require('C:\\Users\\Shahru...')
+#4 {main}
+  thrown in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\functions.php on line 22
+[05-Mar-2020 16:18:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template.php(724): require()
+#1 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template.php(671): load_template('C:\\Users\\Shahru...', false)
+#2 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\front-page.php(39): get_template_part('template-parts/...', 'event')
+#4 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template-loader.php(98): include('C:\\Users\\Shahru...')
+#5 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Shahru...')
+#6 C:\ in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\template-parts\content-event.php on line 4
+[05-Mar-2020 16:18:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template.php(724): require()
+#1 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template.php(671): load_template('C:\\Users\\Shahru...', false)
+#2 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\front-page.php(39): get_template_part('template-parts/...', 'event')
+#4 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template-loader.php(98): include('C:\\Users\\Shahru...')
+#5 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Shahru...')
+#6 C:\ in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\template-parts\content-event.php on line 4
+[05-Mar-2020 16:19:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template.php(724): require()
+#1 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template.php(671): load_template('C:\\Users\\Shahru...', false)
+#2 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\front-page.php(39): get_template_part('template-parts/...', 'event')
+#4 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template-loader.php(98): include('C:\\Users\\Shahru...')
+#5 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Shahru...')
+#6 C:\ in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\template-parts\content-event.php on line 4
+[05-Mar-2020 16:21:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template.php(724): require()
+#1 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template.php(671): load_template('C:\\Users\\Shahru...', false)
+#2 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\front-page.php(39): get_template_part('template-parts/...', 'event')
+#4 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template-loader.php(98): include('C:\\Users\\Shahru...')
+#5 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Shahru...')
+#6 C:\ in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\template-parts\content-event.php on line 4
+[05-Mar-2020 16:28:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template.php(724): require()
+#1 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template.php(671): load_template('C:\\Users\\Shahru...', false)
+#2 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\front-page.php(39): get_template_part('template-parts/...', 'event')
+#4 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template-loader.php(98): include('C:\\Users\\Shahru...')
+#5 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Shahru...')
+#6 C:\ in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\template-parts\content-event.php on line 4
+[05-Mar-2020 16:28:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template.php(724): require()
+#1 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template.php(671): load_template('C:\\Users\\Shahru...', false)
+#2 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\front-page.php(39): get_template_part('template-parts/...', 'event')
+#4 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template-loader.php(98): include('C:\\Users\\Shahru...')
+#5 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Shahru...')
+#6 C:\ in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\template-parts\content-event.php on line 4
+[05-Mar-2020 16:28:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template.php(724): require()
+#1 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template.php(671): load_template('C:\\Users\\Shahru...', false)
+#2 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\front-page.php(39): get_template_part('template-parts/...', 'event')
+#4 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template-loader.php(98): include('C:\\Users\\Shahru...')
+#5 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Shahru...')
+#6 C:\ in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\template-parts\content-event.php on line 4
+[05-Mar-2020 16:28:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template.php(724): require()
+#1 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template.php(671): load_template('C:\\Users\\Shahru...', false)
+#2 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\front-page.php(39): get_template_part('template-parts/...', 'event')
+#4 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template-loader.php(98): include('C:\\Users\\Shahru...')
+#5 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Shahru...')
+#6 C:\ in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\template-parts\content-event.php on line 4
+[05-Mar-2020 16:30:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template.php(724): require()
+#1 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template.php(671): load_template('C:\\Users\\Shahru...', false)
+#2 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\front-page.php(39): get_template_part('template-parts/...', 'event')
+#4 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template-loader.php(98): include('C:\\Users\\Shahru...')
+#5 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Shahru...')
+#6 C:\ in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\template-parts\content-event.php on line 4
+[05-Mar-2020 16:53:22 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\header.php on line 33
+[05-Mar-2020 16:53:23 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\header.php on line 33
+[05-Mar-2020 16:53:27 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\header.php on line 33
+[05-Mar-2020 16:53:36 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\header.php on line 33
+[05-Mar-2020 16:53:37 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\header.php on line 33
+[05-Mar-2020 16:53:40 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\header.php on line 33
+[05-Mar-2020 16:55:48 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\page-my-notes.php on line 4
+[05-Mar-2020 16:55:54 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\page-my-notes.php on line 4
+[05-Mar-2020 16:55:59 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\page-my-notes.php on line 4
+[05-Mar-2020 16:56:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_user_logger_in() in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\page-my-notes.php:3
+Stack trace:
+#0 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-includes\template-loader.php(98): include()
+#1 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Shahru...')
+#2 C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\index.php(17): require('C:\\Users\\Shahru...')
+#3 {main}
+  thrown in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\page-my-notes.php on line 3
+[05-Mar-2020 17:06:29 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\page-my-notes.php on line 30
+[05-Mar-2020 17:06:56 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\page-my-notes.php on line 30
+[05-Mar-2020 17:07:21 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\page-my-notes.php on line 30
+[05-Mar-2020 17:07:43 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\page-my-notes.php on line 30
+[15-Mar-2020 11:00:51 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\includes\like-route.php on line 22
+[15-Mar-2020 11:01:31 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\includes\like-route.php on line 22
+[15-Mar-2020 11:01:57 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\includes\like-route.php on line 22
+[15-Mar-2020 11:02:00 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\includes\like-route.php on line 22
+[15-Mar-2020 11:02:42 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\includes\like-route.php on line 22
+[15-Mar-2020 11:03:35 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\includes\like-route.php on line 34
+[15-Mar-2020 11:03:42 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\includes\like-route.php on line 34
+[15-Mar-2020 11:28:54 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\includes\like-route.php on line 60
+[15-Mar-2020 11:29:11 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Shahrukh\Local Sites\amazinguniversity\app\public\wp-content\themes\fictional-university-theme\includes\like-route.php on line 61
